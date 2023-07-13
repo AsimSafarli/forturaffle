@@ -15,7 +15,6 @@
 }
 .first__section__left {
   height: 285px;
-
   margin-top: 130px;
 }
 .first__section__left__title h1 {
@@ -164,19 +163,19 @@
   margin-left: 8px;
 }
 
-.third__section{
+.third__section {
   font-size: 35px;
   font-weight: 600;
   margin-top: 130px;
 }
-.third__section__cards{
+.third__section__cards {
   margin-top: 50px;
   display: flex;
   gap: 80px;
   flex-direction: row;
   margin-right: 120px;
 }
-.third__section__cards__card{
+.third__section__cards__card {
   box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
   background-color: white;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
@@ -184,17 +183,17 @@
   border-radius: 10px;
   width: 360px;
 }
-.third__section__cards__card__img{
-width: 280px;
-margin-left: 40px;
+.third__section__cards__card__img {
+  width: 280px;
+  margin-left: 40px;
 }
-.third__section__cards__card__title{
+.third__section__cards__card__title {
   font-size: 20px;
   margin-left: 70px;
   font-weight: bold;
   margin-left: 110px;
 }
-.third__section__button{
+.third__section__button {
   display: flex;
   height: 45px;
   border-radius: 10px;
@@ -207,34 +206,91 @@ margin-left: 40px;
   cursor: pointer;
   margin-left: 30px;
 }
-.third__section__button__des{
+.third__section__button__des {
   margin-top: 10px;
   margin-left: 76px;
 }
-.third__section__button__arrow{
+.third__section__button__arrow {
   margin-top: 13px;
   margin-left: 8px;
 }
 
-.third__section__button__2{
+.third__section__button__2 {
   display: flex;
   height: 45px;
   border-radius: 10px;
   width: 200px;
   font-size: 15px;
-  color: #ed5c01;
-  border: 1px solid #ed5c01;
-  font-weight: bold;
+  color: white;
+  background-color: #ed5c01;
   margin-top: 50px;
   margin-left: 550px;
   cursor: pointer;
- 
 }
-.third__section__button__2__des{
+.third__section__button__2__des {
   margin-top: 10px;
-margin-left: 25px;
+  margin-left: 25px;
 }
-.third__section__button__2__arrow{
+.third__section__button__2__arrow {
+  margin-top: 13px;
+  margin-left: 8px;
+}
+.fourth__section {
+  margin-top: 10px;
+  display: flex;
+}
+.fourth__section__left {
+  height: 285px;
+  margin-top: 130px;
+}
+.fourth__section__left h1 {
+  font-size: 40px;
+  font-weight: 800;
+}
+.fourth__section__left p {
+  width: 400px;
+  margin-top: 15px;
+  color: #565656;
+  font-size: 19px;
+}
+
+.fourth__section__left__emailBox {
+  display: flex;
+  gap: 20px;
+  margin-top: 30px;
+}
+.fourth__section__left__emailBox__input input {
+  width: 310px;
+  border: 1px solid #cdcdcd;
+  height: 42px;
+  border-radius: 6px;
+  margin-top: 1px;
+  font-size: 12px;
+}
+.fourth__section__left__emailBox__input input::placeholder {
+  padding: 0 15px;
+}
+.fourth__section__right img {
+  height: 350px;
+  margin-top: 50px;
+  margin-left: 200px;
+}
+
+.fourth__section__left__emailBox__button {
+  display: flex;
+  height: 42px;
+  border-radius: 10px;
+  width: 100px;
+  font-size: 15px;
+  color: white;
+  background-color: #ed5c01;
+  cursor: pointer;
+}
+.third__section__left__emailBox__des {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.third__section__left__emailBox__arrow {
   margin-top: 13px;
   margin-left: 8px;
 }

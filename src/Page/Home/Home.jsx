@@ -25,9 +25,7 @@ function Home() {
             </div>
           </div>
           <div className="first__section__left__button">
-            <button>
-              Bileti al
-            </button>
+            <button>Bileti al</button>
           </div>
         </div>
 
@@ -79,128 +77,186 @@ function Home() {
           </div>
 
           <div className="second__section__cards__card">
-          <div className="second__section__cards__card__img">
-            <img src="Assets/home/airpod.jpg" />
-          </div>
-          <div className="second__section__cards__card__title">
-            AirPods Pro 2nd gen
-          </div>
-          <div className="second__section__cards__card__price ">
-            <div className="second__section__cards__card__price__ticket ">
-            <TiTicket />
+            <div className="second__section__cards__card__img">
+              <img src="Assets/home/airpod.jpg" />
             </div>
-            <div className="second__section__cards__card__pricee ">5 AZN</div>
-          </div>
-          <div className="second__section__cards__card__percentage">
-            <div className="second__section__cards__card__percentage__bar">
-              <progress
-                className="percentage__bar"
-                id="file"
-                value="50"
-                max="100"
-              ></progress>
+            <div className="second__section__cards__card__title">
+              AirPods Pro 2nd gen
             </div>
-            <div className="second__section__cards__card__percentage__number">
-              50%
+            <div className="second__section__cards__card__price ">
+              <div className="second__section__cards__card__price__ticket ">
+                <TiTicket />
+              </div>
+              <div className="second__section__cards__card__pricee ">5 AZN</div>
+            </div>
+            <div className="second__section__cards__card__percentage">
+              <div className="second__section__cards__card__percentage__bar">
+                <progress
+                  className="percentage__bar"
+                  id="file"
+                  value="50"
+                  max="100"
+                ></progress>
+              </div>
+              <div className="second__section__cards__card__percentage__number">
+                50%
+              </div>
+            </div>
+
+            <div className="second__section__cards__card__button">
+              <div className="second__section__cards__card__button__1">
+                <SlHeart />
+              </div>
+              <div className="second__section__cards__card__button__2">
+                <button>Səbətə əlavə et</button>
+              </div>
             </div>
           </div>
 
-          <div className="second__section__cards__card__button">
-            <div className="second__section__cards__card__button__1">
-              <SlHeart />
+          <div className="second__section__cards__card">
+            <div className="second__section__cards__card__img">
+              <img src="Assets/home/airpod.jpg" />
             </div>
-            <div className="second__section__cards__card__button__2">
-              <button>Səbətə əlavə et</button>
+            <div className="second__section__cards__card__title">
+              AirPods Pro 2nd gen
+            </div>
+            <div className="second__section__cards__card__price ">
+              <div className="second__section__cards__card__price__ticket ">
+                <TiTicket />
+              </div>
+              <div className="second__section__cards__card__pricee ">5 AZN</div>
+            </div>
+            <div className="second__section__cards__card__percentage">
+              <div className="second__section__cards__card__percentage__bar">
+                <progress
+                  className="percentage__bar"
+                  id="file"
+                  value="50"
+                  max="100"
+                ></progress>
+              </div>
+              <div className="second__section__cards__card__percentage__number">
+                50%
+              </div>
+            </div>
+
+            <div className="second__section__cards__card__button">
+              <div className="second__section__cards__card__button__1">
+                <SlHeart />
+              </div>
+              <div className="second__section__cards__card__button__2">
+                <button>Səbətə əlavə et</button>
+              </div>
             </div>
           </div>
-        </div>
 
+          <div className="second__section__cards__card">
+            <div className="second__section__cards__card__img">
+              <img src="Assets/home/airpod.jpg" />
+            </div>
+            <div className="second__section__cards__card__title">
+              AirPods Pro 2nd gen
+            </div>
+            <div className="second__section__cards__card__price ">
+              <div className="second__section__cards__card__price__ticket ">
+                <TiTicket />
+              </div>
+              <div className="second__section__cards__card__pricee ">5 AZN</div>
+            </div>
+            <div className="second__section__cards__card__percentage">
+              <div className="second__section__cards__card__percentage__bar">
+                <progress
+                  className="percentage__bar"
+                  id="file"
+                  value="50"
+                  max="100"
+                ></progress>
+              </div>
+              <div className="second__section__cards__card__percentage__number">
+                50%
+              </div>
+            </div>
 
-        <div className="second__section__cards__card">
-        <div className="second__section__cards__card__img">
-          <img src="Assets/home/airpod.jpg" />
-        </div>
-        <div className="second__section__cards__card__title">
-          AirPods Pro 2nd gen
-        </div>
-        <div className="second__section__cards__card__price ">
-          <div className="second__section__cards__card__price__ticket ">
-            <TiTicket />
+            <div className="second__section__cards__card__button">
+              <div className="second__section__cards__card__button__1">
+                <SlHeart />
+              </div>
+              <div className="second__section__cards__card__button__2">
+                <button>Səbətə əlavə et</button>
+              </div>
+            </div>
           </div>
-          <div className="second__section__cards__card__pricee ">5 AZN</div>
-        </div>
-        <div className="second__section__cards__card__percentage">
-          <div className="second__section__cards__card__percentage__bar">
-            <progress
-              className="percentage__bar"
-              id="file"
-              value="50"
-              max="100"
-            ></progress>
-          </div>
-          <div className="second__section__cards__card__percentage__number">
-            50%
-          </div>
-        </div>
-
-        <div className="second__section__cards__card__button">
-          <div className="second__section__cards__card__button__1">
-            <SlHeart />
-          </div>
-          <div className="second__section__cards__card__button__2">
-            <button>Səbətə əlavə et</button>
-          </div>
-        </div>
-      </div>
-
-
-      <div className="second__section__cards__card">
-      <div className="second__section__cards__card__img">
-        <img src="Assets/home/airpod.jpg" />
-      </div>
-      <div className="second__section__cards__card__title">
-        AirPods Pro 2nd gen
-      </div>
-      <div className="second__section__cards__card__price ">
-        <div className="second__section__cards__card__price__ticket ">
-          <TiTicket />
-        </div>
-        <div className="second__section__cards__card__pricee ">5 AZN</div>
-      </div>
-      <div className="second__section__cards__card__percentage">
-        <div className="second__section__cards__card__percentage__bar">
-          <progress
-            className="percentage__bar"
-            id="file"
-            value="50"
-            max="100"
-          ></progress>
-        </div>
-        <div className="second__section__cards__card__percentage__number">
-          50%
-        </div>
-      </div>
-
-      <div className="second__section__cards__card__button">
-        <div className="second__section__cards__card__button__1">
-          <SlHeart />
-        </div>
-        <div className="second__section__cards__card__button__2">
-          <button>Səbətə əlavə et</button>
-        </div>
-      </div>
-    </div>
-
-
         </div>
         <div className="second__section__button">
-        <div className="second__section__button__des">
-        Daha çox məhsul
-        </div>
-        <div className="second__section__button__arrow">
-        <AiOutlineArrowRight/></div>
+          <div className="second__section__button__des">Daha çox məhsul</div>
+          <div className="second__section__button__arrow">
+            <AiOutlineArrowRight />
+          </div>
         </div>
       </section>
+
+      <section>
+        <div className="third__section">
+          <h1>Kateqoriyalar</h1>
+        </div>
+        <div className="third__section__cards">
+          <div className="third__section__cards__card">
+            <div className="third__section__cards__card__img">
+              <img src="Assets/home/airpod.jpg" />
+            </div>
+            <div className="third__section__cards__card__title">
+              Qulaqcıqlar
+            </div>
+
+            <div className="third__section__button">
+              <div className="third__section__button__des">Məhsuallara bax</div>
+              <div className="third__section__button__arrow">
+                <AiOutlineArrowRight />
+              </div>
+            </div>
+          </div>
+
+          <div className="third__section__cards__card">
+          <div className="third__section__cards__card__img">
+            <img src="Assets/home/airpod.jpg" />
+          </div>
+          <div className="third__section__cards__card__title">
+            Qulaqcıqlar
+          </div>
+
+          <div className="third__section__button">
+            <div className="third__section__button__des">Məhsuallara bax</div>
+            <div className="third__section__button__arrow">
+              <AiOutlineArrowRight />
+            </div>
+          </div>
+        </div>
+
+
+        <div className="third__section__cards__card">
+        <div className="third__section__cards__card__img">
+          <img src="Assets/home/airpod.jpg" />
+        </div>
+        <div className="third__section__cards__card__title">
+          Qulaqcıqlar
+        </div>
+
+        <div className="third__section__button">
+          <div className="third__section__button__des">Məhsuallara bax</div>
+          <div className="third__section__button__arrow">
+            <AiOutlineArrowRight />
+          </div>
+        </div>
+      </div>
+
+        </div>
+      </section>
+      <div className="third__section__button__2">
+      <div className="third__section__button__2__des">Daha çox məhsul</div>
+      <div className="third__section__button__2__arrow">
+        <AiOutlineArrowRight />
+      </div>
+    </div>
     </div>
   );
 }

@@ -1,14 +1,15 @@
 .p-5 {
-  margin-left: 108px;
-  width: 1224px;
+  margin-left: 100px;
+  width: 1300px;
   height: 100px;
-  
+}
+.activeLink {
+  font-weight: bold;
 }
 .header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  
 }
 .loqo {
   color: #ed5c01;
@@ -32,13 +33,13 @@
 .nav {
   display: flex;
   flex-direction: row;
-  gap: 18px;
+  gap: 19px;
   margin-top: 14px;
 }
-.navbar__loqo{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap:20px;
-    margin-top: 15px;
+.navbar__loqo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  margin-top: 15px;
 }

@@ -4,8 +4,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 .total {
-  margin-left: 128px;
+  margin-left: 118px;
 }
 .first__section {
   display: flex;
@@ -26,20 +27,20 @@
   gap: 70px;
 }
 .first__section__left__decription__left h6 {
-  font-size: 35px;
+  font-size: 50px;
   margin-top: 20px;
 }
 .first__section__left__decription__left p {
-  font-size: 17px;
-  margin-left: 14px;
+  font-size: 20px;
+  margin-left: 30px;
 }
 .first__section__left__decription__right h6 {
-  font-size: 35px;
+  font-size: 50px;
   margin-top: 20px;
 }
 .first__section__left__decription__right p {
-  font-size: 17px;
-  margin-left: 18px;
+  font-size: 20px;
+  margin-left: 50px;
 }
 .first__section__left__button {
   border-radius: 4px;
@@ -76,7 +77,12 @@
   box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
   background-color: white;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
-  height: 460px;
+  height: 450px;
+  border-radius: 10px;
+  width: 600px;
+}
+.second__section__cards__card__img img{
+  width: 280px;
   border-radius: 10px;
 }
 .second__section__cards__card__title {

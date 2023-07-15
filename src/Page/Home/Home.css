@@ -54,7 +54,13 @@
   font-size: 10px;
   color: white;
   margin-top: 8px;
+  cursor: pointer;
 }
+.first__section__left__button button:hover {
+  color: #ed5c01;
+  border: 1px solid #ed5c01;
+}
+
 .first__section__right img {
   margin-left: 150px;
   margin-top: 40px;
@@ -81,7 +87,7 @@
   border-radius: 10px;
   width: 600px;
 }
-.second__section__cards__card__img img{
+.second__section__cards__card__img img {
   width: 280px;
   border-radius: 10px;
 }

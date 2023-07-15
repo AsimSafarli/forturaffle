@@ -46,9 +46,7 @@ function Navbar() {
           </NavLink>
           <NavLink
             to="/win"
-            className={`navLink ${
-              activeLink === "win" ? "activeLink" : ""
-            }`}
+            className={`navLink ${activeLink === "win" ? "activeLink" : ""}`}
             onClick={() => handleClick("win")}
           >
             Son qazananlar

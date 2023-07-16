@@ -7,10 +7,7 @@ import { TiTicket } from "react-icons/ti";
 import { SlHeart } from "react-icons/sl";
 import TopProductsCards from "../../../Data/HomePage/TopProductsCards.json";
 import { AiOutlineArrowRight } from "react-icons/ai";
-
 import { Swiper, SwiperSlide } from "swiper/react";
-
-// Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
 import "./TopProductsSlider.css";
@@ -25,7 +22,6 @@ export default function App() {
         <div className="second__section__cards">
           <Swiper
             slidesPerView={4}
-            // mousewheel={true}
             modules={[]}
             className="mySwiper"
           >

@@ -10,7 +10,7 @@ const app = express();
 
 app.use(express.json(), cors(), express.urlencoded({ extended: true }));
 
-require("./routes/auth.route")(app);
+require("./routes/auth.routes")(app);
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);

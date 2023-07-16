@@ -1,5 +1,6 @@
 import React from "react";
 import LatestWinner from "../../../Data/HomePage/LatestWinners.json";
+import { AiOutlineArrowRight } from "react-icons/ai";
 import "./LatestWinners.css";
 const LatestWinners = () => {
   return (
@@ -28,6 +29,12 @@ const LatestWinners = () => {
               </div>
             </div>
           ))}
+        </div>
+      </div>
+      <div className="third__section__button__2">
+        <div className="third__section__button__2__des">Daha çox məhsul</div>
+        <div className="third__section__button__2__arrow">
+          <AiOutlineArrowRight />
         </div>
       </div>
     </section>

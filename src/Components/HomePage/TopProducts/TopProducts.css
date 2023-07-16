@@ -20,6 +20,9 @@
   margin-top: 20px;
   gap: 16px;
 }
+.home__top__card{
+  background-color: #eee !important;
+}
 .second__section__cards__card {
   background-color: white;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
@@ -35,6 +38,7 @@
 .second__section__cards__card__title {
   font-size: 20px;
   margin-left: 20px;
+  text-align: start;
 }
 .second__section__cards__card__price {
   display: flex;

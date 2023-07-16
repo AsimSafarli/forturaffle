@@ -38,7 +38,35 @@
     "percentageBarValue":"50",
     "percentageNumber":"50"
 
+   },
+   {
+    "id":5,
+    "image":"Assets/home/airpod.jpg",
+    "title":"AirPods Pro 2nd gen",
+    "price":"5 AZN",
+    "percentageBarMax":"100",
+    "percentageBarValue":"50",
+    "percentageNumber":"50"
+
+   },
+   {
+    "id":6,
+    "image":"Assets/home/airpod.jpg",
+    "title":"AirPods Pro 2nd gen",
+    "price":"5 AZN",
+    "percentageBarMax":"100",
+    "percentageBarValue":"50",
+    "percentageNumber":"50"
+
+   },
+   {
+    "id":7,
+    "image":"Assets/home/airpod.jpg",
+    "title":"AirPods Pro 2nd gen",
+    "price":"5 AZN",
+    "percentageBarMax":"100",
+    "percentageBarValue":"50",
+    "percentageNumber":"50"
+
    }
-
-
 ]

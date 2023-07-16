@@ -5,6 +5,7 @@ import TopProductsCards from "../../Components/HomePage/TopProducts/TopProducts"
 import Categories from "../../Components/HomePage/Categories/Categories";
 import LatestWinners from "../../Components/HomePage/LatestWinners/LatestWinners";
 import InformationChat from "../../Components/HomePage/InformationChat/InformationChat";
+import Slider from "../../Components/Slider/slider";
 
 function Home() {
   return (
@@ -14,6 +15,7 @@ function Home() {
       <Categories />
       <LatestWinners />
       <InformationChat/>
+      <Slider/>
     </>
   );
 }

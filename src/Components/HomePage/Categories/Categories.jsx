@@ -28,7 +28,7 @@ const Categoriess = () => {
           </div>
         ))}
         <div className="third__section__button__2">
-          <div className="third__section__button__2__des">Daha çox məhsul</div>
+          <div className="third__section__button__2__des">Hamısına bax</div>
           <div className="third__section__button__2__arrow">
             <AiOutlineArrowRight />
           </div>

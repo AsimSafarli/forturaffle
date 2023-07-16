@@ -1,7 +1,8 @@
 .p-5 {
-  margin-left: 100px;
-  width: 1300px;
-  height: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 1224px;
+  
 }
 .activeLink {
   font-weight: bold;

@@ -32,10 +32,10 @@
   border-radius: 6px;
   margin-top: 1px;
   font-size: 12px;
+  padding: 15px;
 }
 .fifth__section__left__emailBox__input input::placeholder {
   padding: 0 15px;
-  
 }
 .fifth__section__right img {
   width: 600px;
@@ -54,8 +54,8 @@
   background-color: #ed5c01;
   cursor: pointer;
 }
-.fifth__section__left__emailBox__button:hover{
-  border: 1px solid #ed5c01 ;
+.fifth__section__left__emailBox__button:hover {
+  border: 1px solid #ed5c01;
   background-color: white;
   color: #ed5c01;
   transition: 0.5s;

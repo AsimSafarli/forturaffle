@@ -4,12 +4,12 @@
     padding: 0;
     box-sizing: border-box;
   }
-  
-  .total {
-    margin-left: 118px;
-  }
   .first__section {
     display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1224px;
+    height: 598px;
   }
   .first__section__right img {
     height: 598px;
@@ -60,6 +60,7 @@
     background-color: white;
     color: #ed5c01;
     border: 1px solid #ed5c01 ;
+    transition: 0.5s;
 }
   
   .first__section__right img {

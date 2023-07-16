@@ -1,8 +1,8 @@
 import React from "react";
-import "./SansYoxla.css";
-const SansYoxla = () => {
+import "./Fortune.css";
+const Fortune = () => {
   return (
-    <div>
+   
       <section className="first__section">
         <div className="first__section__left">
           <div className="first__section__left__title">
@@ -28,8 +28,8 @@ const SansYoxla = () => {
           <img src="Assets/Home/Shop giveaway-pana 1.png" />
         </div>
       </section>
-    </div>
+
   );
 };
 
-export default SansYoxla;
+export default Fortune;

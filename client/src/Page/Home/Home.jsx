@@ -1,21 +1,20 @@
 import React from "react";
-import "./Home.css";
-import Fortune from "../../Components/HomePage/Fortune/Fortune";
-import TopProductsSlider from "../../Components/HomePage/TopProductsSlider/TopProductsSlider";
-import Categories from "../../Components/HomePage/Categories/Categories";
-import LatestWinners from "../../Components/HomePage/LatestWinners/LatestWinners";
-import InformationChat from "../../Components/HomePage/InformationChat/InformationChat";
+import BestProduct from "../../Components/Home/BestProduct/BestProduct";
+import Categories from "../../Components/Home/Categories/Categories";
+import Information from "../../Components/Home/Information/Information";
+import Win from "../../Components/Home/Win/Win";
+import Banner from "../../Components/Home/Banner/Banner";
 
 function Home() {
   return (
-    <>
-      <Fortune />
-      <TopProductsSlider />
+    <div className='flex flex-col gap-y-[100px]'>
+      <Banner />
+      <BestProduct />
       <Categories />
-      <LatestWinners />
-      <InformationChat/>
+      <Information />
+      <Win/>
       
-    </>
+    </div>
   );
 }
 

@@ -2,7 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
-  font-family: 'Ubuntu', sans-serif;
 
+*{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.active{
+  font-weight: bold;
 }
